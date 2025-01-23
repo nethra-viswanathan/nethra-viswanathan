@@ -52,17 +52,25 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects
-### [LeadHawk LLC](#) *(Jan 2024 – Apr 2024)*  
-- Architected a SaaS lead generation platform with real-time alerting using Elasticsearch and Kafka.
-- Designed custom tab creation and filtering for personalized user data views.
+## **📂 Projects**
 
-### [Amazon Robotics](#) *(Jul 2023 – Dec 2023)*  
-- Developed a real-time dashboard for device management using React and TypeScript.
-- Reduced EC2 image pull time by implementing a distributed local cache with Node.js.
+### **🌟 Front-End Projects**
+- [UniSearch](https://github.com/nethra-viswanathan/UniSearch): A university search application featuring advanced filtering and a sleek UI.
+- [ToDo](https://github.com/nethra-viswanathan/ToDo): A responsive and interactive task management app.
+- [Meme Generator](https://github.com/nethra-viswanathan/memeGenerator): A fun app for creating and sharing memes.
+- [Canvas Calculator](https://github.com/nethra-viswanathan/canvasCalculator): A browser-based calculator using HTML5 Canvas.
 
-### [Chonks Education Portal](#) *(Apr 2023 – May 2023)*  
-- Built a scalable portal with real-time updates using Spring Boot, React, and Server-Sent Events.
+---
+
+### **💻 Back-End/Full-Stack Projects**
+- [Employee Management System](https://github.com/nethra-viswanathan/EmployeeManagementSystem): A robust employee management system with CRUD operations and role-based access.
+- [Course Management System](https://github.com/nethra-viswanathan/courseManagementSystem): A microservices-based course management platform with assignment submission and course tracking.
+
+---
+
+### **📱 iOS Projects**
+- [Mental Health App](https://github.com/nethra-viswanathan/MentalHealthApp): An iOS app for tracking moods and visualizing mental health trends, built with **SwiftUI** and custom animations.
+
 
 ---
 
